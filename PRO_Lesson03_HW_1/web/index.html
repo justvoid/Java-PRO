@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Survey</title>
+</head>
+<body>
+<h1 align="center">
+    Survey
+</h1>
+<form action="/survey" method="POST">
+    <h3>
+        First, tell us a bit about yourself:
+    </h3>
+    <p>
+    <table border="0">
+        <tr>
+            <td>First Name:</td>
+            <td><input type="text" name="name"></td>
+        </tr>
+        <tr>
+            <td>Surname:</td>
+            <td><input type="text" name="surname"></td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><input type="number" name="age"></td>
+        </tr>
+    </table>
+    </p>
+    <h3>
+        Now, please answer some simple questions:
+    </h3>
+    <p>
+    <table border="0">
+        <tr >
+            <td width="200">Do you own a pet:</td>
+            <td><input type="radio" name="hasPet" value="true"> Yes
+                <input type="radio" name="hasPet" value="false"> No
+            </td>
+        </tr>
+        <tr>
+            <td width="200">What's your favorite pet:</td>
+            <td><input type="radio" name="petType" value="DOG"> Dog
+                <input type="radio" name="petType" value="CAT"> Cat
+                <input type="radio" name="petType" value="PARROT"> Parrot
+                <input type="radio" name="petType" value="OTHER"> Other
+            </td>
+        </tr>
+        <tr>
+            <td width="200">What's the advantages of having a pet:</td>
+            <td><input type="checkbox" name="petAdvantage0" value="true"> Protection
+                <input type="checkbox" name="petAdvantage1" value="true"> Love
+                <input type="checkbox" name="petAdvantage2" value="true"> Convenience
+                <input type="checkbox" name="petAdvantage3" value="true"> Stress relief
+                <input type="checkbox" name="petAdvantage4" value="true"> Leasure
+                <input type="hidden" name="petAdvantageNumber" value="5">
+            </td>
+        </tr>
+    </table>
+    </p>
+    <input type="submit" name="Submit Data"/>
+</form>
+</body>
+</html>

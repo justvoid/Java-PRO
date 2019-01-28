@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<source id="currency-cash" date="2018-12-10T15:16:25+02:00">
+    <organizations>
+        <organization id="7oiylpmiow8iy1smaze">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.407" id="RUB" ar="0.423"/>
+                <c br="27.6" id="USD" ar="27.9"/>
+            </currencies>
+            <title value="А-Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb00">
+            <currencies>
+                <c br="31.7" id="EUR" ar="32.2"/>
+                <c br="27.85" id="USD" ar="28.07"/>
+            </currencies>
+            <title value="Агропросперис Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma9g">
+            <currencies>
+                <c br="31.5" id="EUR" ar="32.1"/>
+                <c br="0.4" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="28.06"/>
+            </currencies>
+            <title value="Айбокс Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb14">
+            <currencies>
+                <c br="31.65" id="EUR" ar="31.89"/>
+                <c br="0.362" id="RUB" ar="0.422"/>
+                <c br="27.76" id="USD" ar="27.99"/>
+            </currencies>
+            <title value="Аккордбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smdqi">
+            <currencies>
+                <c br="31.7" id="EUR" ar="31.95"/>
+                <c br="0.35" id="RUB" ar="0.45"/>
+                <c br="27.8" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Альпари Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smar1">
+            <currencies>
+                <c br="31.45" id="EUR" ar="32.25"/>
+                <c br="27.7" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Альтбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma7h">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.403" id="RUB" ar="0.425"/>
+                <c br="27.75" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Альфа-Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaoz">
+            <currencies>
+                <c br="31.65" id="EUR" ar="32.25"/>
+                <c br="0.4" id="RUB" ar="0.44"/>
+                <c br="27.8" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Альянс Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaab">
+            <currencies>
+                <c br="31.55" id="EUR" ar="32.1"/>
+                <c br="27.65" id="USD" ar="28.09"/>
+            </currencies>
+            <title value="Аркада"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smau3">
+            <currencies>
+                <c br="7.2528" id="AED" ar="7.4745"/>
+                <c br="0.0524" id="AMD" ar="0.0566"/>
+                <c br="19.9208" id="AUD" ar="20.028"/>
+                <c br="14.4627" id="AZN" ar="16.3"/>
+                <c br="15.2338" id="BGN" ar="16.159"/>
+                <c br="5.8326" id="BRL" ar="7.156"/>
+                <c br="13.0087" id="BYN" ar="13.119"/>
+                <c br="20.705" id="CAD" ar="21.099"/>
+                <c br="27.9" id="CHF" ar="28.039"/>
+                <c br="0.0251" id="CLP" ar="0.0488"/>
+                <c br="3.9223" id="CNY" ar="4.021"/>
+                <c br="1.2106" id="CZK" ar="1.229"/>
+                <c br="4.1505" id="DKK" ar="4.24"/>
+                <c br="1.2026" id="EGP" ar="1.297"/>
+                <c br="31.8515" id="EUR" ar="32.0"/>
+                <c br="35.5" id="GBP" ar="35.626"/>
+                <c br="10.3036" id="GEL" ar="10.84"/>
+                <c br="3.1276" id="HKD" ar="3.257"/>
+                <c br="3.2512" id="HRK" ar="4.265"/>
+                <c br="0.0962" id="HUF" ar="0.0985"/>
+                <c br="7.3506" id="ILS" ar="7.584"/>
+                <c br="0.348" id="INR" ar="0.379"/>
+                <c br="0.2386" id="JPY" ar="0.2448"/>
+                <c br="0.0217" id="KRW" ar="0.0236"/>
+                <c br="49.2214" id="KWD" ar="87.9975"/>
+                <c br="0.0665" id="KZT" ar="0.0708"/>
+                <c br="0.0114" id="LBP" ar="0.0177"/>
+                <c br="1.5109" id="MDL" ar="1.6176"/>
+                <c br="1.2219" id="MXN" ar="1.307"/>
+                <c br="3.1827" id="NOK" ar="3.275"/>
+                <c br="17.4437" id="NZD" ar="18.276"/>
+                <c br="7.3805" id="PLN" ar="7.409"/>
+                <c br="6.5232" id="RON" ar="6.807"/>
+                <c br="0.4" id="RUB" ar="0.414"/>
+                <c br="6.5335" id="SAR" ar="6.987"/>
+                <c br="2.9855" id="SEK" ar="3.058"/>
+                <c br="18.5733" id="SGD" ar="19.293"/>
+                <c br="0.784" id="THB" ar="0.839"/>
+                <c br="4.8573" id="TRY" ar="5.3"/>
+                <c br="0.6288" id="TWD" ar="0.6748"/>
+                <c br="27.95" id="USD" ar="28.009"/>
+                <c br="0.0011" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="Артада"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaca">
+            <currencies>
+                <c br="31.35" id="EUR" ar="32.25"/>
+                <c br="0.33" id="RUB" ar="0.5"/>
+                <c br="27.7" id="USD" ar="28.15"/>
+            </currencies>
+            <title value="Асвио Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma85">
+            <currencies>
+                <c br="31.4" id="EUR" ar="31.95"/>
+                <c br="0.382" id="RUB" ar="0.422"/>
+                <c br="27.75" id="USD" ar="27.94"/>
+            </currencies>
+            <title value="БТА Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb4t">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.2"/>
+                <c br="0.4" id="RUB" ar="0.43"/>
+                <c br="27.8" id="USD" ar="27.9"/>
+            </currencies>
+            <title value="Банк 3/4"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smawu">
+            <currencies>
+                <c br="31.59" id="EUR" ar="31.79"/>
+                <c br="0.35" id="RUB" ar="0.425"/>
+                <c br="27.8" id="USD" ar="27.9"/>
+            </currencies>
+            <title value="Банк инвестиций и сбережений"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0f">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.9"/>
+                <c br="0.37" id="RUB" ar="0.425"/>
+                <c br="27.7" id="USD" ar="27.93"/>
+            </currencies>
+            <title value="Глобус"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smnwb">
+            <currencies>
+                <c br="6.4" id="AED" ar="7.47"/>
+                <c br="0.03" id="AMD" ar="0.057"/>
+                <c br="19.9" id="AUD" ar="20.8"/>
+                <c br="13.0" id="AZN" ar="16.5"/>
+                <c br="15.0" id="BGN" ar="16.15"/>
+                <c br="12.0" id="BYN" ar="14.0"/>
+                <c br="20.7" id="CAD" ar="21.2"/>
+                <c br="27.5" id="CHF" ar="28.1"/>
+                <c br="3.85" id="CNY" ar="4.09"/>
+                <c br="1.2" id="CZK" ar="1.27"/>
+                <c br="4.1" id="DKK" ar="4.32"/>
+                <c br="1.0" id="EGP" ar="1.4"/>
+                <c br="31.87" id="EUR" ar="31.95"/>
+                <c br="35.5" id="GBP" ar="35.85"/>
+                <c br="10.0" id="GEL" ar="11.5"/>
+                <c br="2.5" id="HKD" ar="3.25"/>
+                <c br="3.0" id="HRK" ar="4.25"/>
+                <c br="0.093" id="HUF" ar="0.103"/>
+                <c br="7.25" id="ILS" ar="7.55"/>
+                <c br="0.2" id="INR" ar="0.35"/>
+                <c br="0.012" id="IQD" ar="0.023"/>
+                <c br="0.23" id="JPY" ar="0.26"/>
+                <c br="0.05" id="KZT" ar="0.07"/>
+                <c br="1.1" id="MDL" ar="1.6"/>
+                <c br="3.1" id="NOK" ar="3.3"/>
+                <c br="7.3" id="PLN" ar="7.35"/>
+                <c br="5.8" id="RON" ar="6.8"/>
+                <c br="0.418" id="RUB" ar="0.4195"/>
+                <c br="6.0" id="SAR" ar="7.4"/>
+                <c br="3.0" id="SEK" ar="3.12"/>
+                <c br="17.5" id="SGD" ar="19.3"/>
+                <c br="0.5" id="THB" ar="0.85"/>
+                <c br="0.85" id="TMT" ar="7.4"/>
+                <c br="4.65" id="TRY" ar="5.35"/>
+                <c br="0.5" id="TWD" ar="0.97"/>
+                <c br="28.0" id="USD" ar="28.04"/>
+                <c br="6.0E-4" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="Градусник"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma75">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.405" id="RUB" ar="0.42"/>
+                <c br="27.8" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Грант"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smnts">
+            <currencies>
+                <c br="20.5" id="CAD" ar="21.5"/>
+                <c br="31.8" id="EUR" ar="31.95"/>
+                <c br="35.1" id="GBP" ar="35.75"/>
+                <c br="7.25" id="PLN" ar="7.43"/>
+                <c br="0.408" id="RUB" ar="0.415"/>
+                <c br="27.93" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Европошта"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb1e">
+            <currencies>
+                <c br="31.63" id="EUR" ar="32.05"/>
+                <c br="0.385" id="RUB" ar="0.427"/>
+                <c br="27.8" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Европромбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma9y">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.4" id="RUB" ar="0.42"/>
+                <c br="27.7" id="USD" ar="28.15"/>
+            </currencies>
+            <title value="Земельный Капитал"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smabc">
+            <currencies>
+                <c br="31.3" id="EUR" ar="31.9"/>
+                <c br="0.37" id="RUB" ar="0.42"/>
+                <c br="27.7" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Идея Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smabv">
+            <currencies>
+                <c br="20.0" id="CAD" ar="21.4"/>
+                <c br="27.6" id="CHF" ar="28.6"/>
+                <c br="31.7" id="EUR" ar="32.0"/>
+                <c br="35.2" id="GBP" ar="36.2"/>
+                <c br="0.085" id="HUF" ar="0.1"/>
+                <c br="7.2" id="PLN" ar="7.55"/>
+                <c br="0.39" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Индустриалбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma9u">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.0"/>
+                <c br="0.38" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Клиринговый Дом"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma6j">
+            <currencies>
+                <c br="31.5" id="EUR" ar="31.7"/>
+                <c br="0.39" id="RUB" ar="0.415"/>
+                <c br="27.75" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="КомИнвестБанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smace">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.95"/>
+                <c br="0.39" id="RUB" ar="0.42"/>
+                <c br="27.78" id="USD" ar="27.94"/>
+            </currencies>
+            <title value="Коммерческий Индустриальный Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0a">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.95"/>
+                <c br="0.3" id="RUB" ar="0.43"/>
+                <c br="27.82" id="USD" ar="27.96"/>
+            </currencies>
+            <title value="Конкорд"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma7d">
+            <currencies>
+                <c br="31.4" id="EUR" ar="31.9"/>
+                <c br="0.39" id="RUB" ar="0.43"/>
+                <c br="27.65" id="USD" ar="27.94"/>
+            </currencies>
+            <title value="Креди Агриколь Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smay3">
+            <currencies>
+                <c br="31.5" id="EUR" ar="32.3"/>
+                <c br="27.7" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Кредит Европа Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0d">
+            <currencies>
+                <c br="31.65" id="EUR" ar="32.15"/>
+                <c br="27.8" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Кредитвест Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma6l">
+            <currencies>
+                <c br="31.55" id="EUR" ar="32.2"/>
+                <c br="27.75" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Кредобанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smgg3">
+            <currencies>
+                <c br="31.55" id="EUR" ar="32.1"/>
+                <c br="0.37" id="RUB" ar="0.419"/>
+                <c br="27.7" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Кристалбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smac2">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.83"/>
+                <c br="0.406" id="RUB" ar="0.418"/>
+                <c br="27.75" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Львов Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaww">
+            <currencies>
+                <c br="19.4" id="AUD" ar="20.2"/>
+                <c br="12.8" id="BYN" ar="13.3"/>
+                <c br="20.6" id="CAD" ar="21.1"/>
+                <c br="27.8" id="CHF" ar="28.4"/>
+                <c br="3.7" id="CNY" ar="4.1"/>
+                <c br="1.19" id="CZK" ar="1.26"/>
+                <c br="4.1" id="DKK" ar="4.35"/>
+                <c br="31.75" id="EUR" ar="31.95"/>
+                <c br="35.3" id="GBP" ar="35.8"/>
+                <c br="0.095" id="HUF" ar="0.102"/>
+                <c br="6.9" id="ILS" ar="7.6"/>
+                <c br="0.225" id="JPY" ar="0.25"/>
+                <c br="0.065" id="KZT" ar="0.075"/>
+                <c br="1.3" id="MDL" ar="1.64"/>
+                <c br="3.15" id="NOK" ar="3.32"/>
+                <c br="7.3" id="PLN" ar="7.5"/>
+                <c br="6.4" id="RON" ar="7.0"/>
+                <c br="0.405" id="RUB" ar="0.419"/>
+                <c br="2.95" id="SEK" ar="3.14"/>
+                <c br="27.9" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Маржа"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smabf">
+            <currencies>
+                <c br="31.61" id="EUR" ar="32.03"/>
+                <c br="0.408" id="RUB" ar="0.42"/>
+                <c br="27.7" id="USD" ar="28.07"/>
+            </currencies>
+            <title value="Мегабанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0y">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.37" id="RUB" ar="0.43"/>
+                <c br="27.8" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Международный Инвестиционный Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaay">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.5"/>
+                <c br="0.37" id="RUB" ar="0.42"/>
+                <c br="27.8" id="USD" ar="28.5"/>
+            </currencies>
+            <title value="Мисто Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smazx">
+            <currencies>
+                <c br="31.7" id="EUR" ar="32.05"/>
+                <c br="0.403" id="RUB" ar="0.423"/>
+                <c br="27.85" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Мотор-Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb27">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.89"/>
+                <c br="0.36" id="RUB" ar="0.42"/>
+                <c br="27.78" id="USD" ar="27.93"/>
+            </currencies>
+            <title value="ОКСИ Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smajq">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.2"/>
+                <c br="27.75" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="ОТП Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma9a">
+            <currencies>
+                <c br="31.15" id="EUR" ar="31.95"/>
+                <c br="0.26" id="RUB" ar="0.425"/>
+            </currencies>
+            <title value="Ощадбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smnuj">
+            <currencies>
+                <c br="7.2528" id="AED" ar="7.4746"/>
+                <c br="0.0524" id="AMD" ar="0.0566"/>
+                <c br="19.9208" id="AUD" ar="20.035"/>
+                <c br="14.4627" id="AZN" ar="17.0"/>
+                <c br="15.2338" id="BGN" ar="16.159"/>
+                <c br="5.8323" id="BRL" ar="7.156"/>
+                <c br="13.008" id="BYN" ar="13.119"/>
+                <c br="20.7" id="CAD" ar="21.15"/>
+                <c br="27.95" id="CHF" ar="28.2"/>
+                <c br="3.9216" id="CNY" ar="4.023"/>
+                <c br="1.2103" id="CZK" ar="1.23"/>
+                <c br="4.15" id="DKK" ar="4.243"/>
+                <c br="0.13" id="DZD" ar="0.1301"/>
+                <c br="31.82" id="EUR" ar="31.899"/>
+                <c br="35.5" id="GBP" ar="35.627"/>
+                <c br="10.302" id="GEL" ar="10.5999"/>
+                <c br="3.127" id="HKD" ar="3.257"/>
+                <c br="3.25" id="HRK" ar="4.265"/>
+                <c br="0.0958" id="HUF" ar="0.0986"/>
+                <c br="7.35" id="ILS" ar="7.584"/>
+                <c br="0.3477" id="INR" ar="0.365"/>
+                <c br="0.2383" id="JPY" ar="0.2449"/>
+                <c br="0.0217" id="KRW" ar="0.0236"/>
+                <c br="49.2214" id="KWD" ar="87.9975"/>
+                <c br="0.0664" id="KZT" ar="0.0709"/>
+                <c br="1.5105" id="MDL" ar="1.6176"/>
+                <c br="1.2216" id="MXN" ar="1.307"/>
+                <c br="3.182" id="NOK" ar="3.278"/>
+                <c br="17.443" id="NZD" ar="18.276"/>
+                <c br="7.38" id="PLN" ar="7.409"/>
+                <c br="6.5223" id="RON" ar="6.807"/>
+                <c br="0.416" id="RUB" ar="0.419"/>
+                <c br="2.98" id="SEK" ar="3.08"/>
+                <c br="18.5727" id="SGD" ar="20.6"/>
+                <c br="0.782" id="THB" ar="0.839"/>
+                <c br="4.856" id="TRY" ar="5.3"/>
+                <c br="0.6285" id="TWD" ar="0.6748"/>
+                <c br="27.97" id="USD" ar="27.99"/>
+            </currencies>
+            <title value="ПОВ №19"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smbwq">
+            <currencies>
+                <c br="7.2527" id="AED" ar="7.4747"/>
+                <c br="0.0525" id="AMD" ar="0.0567"/>
+                <c br="19.9209" id="AUD" ar="20.03"/>
+                <c br="14.4628" id="AZN" ar="14.98"/>
+                <c br="15.2337" id="BGN" ar="16.16"/>
+                <c br="5.8325" id="BRL" ar="7.157"/>
+                <c br="13.0085" id="BYN" ar="13.12"/>
+                <c br="20.705" id="CAD" ar="20.98"/>
+                <c br="27.951" id="CHF" ar="28.04"/>
+                <c br="3.922" id="CNY" ar="4.024"/>
+                <c br="1.2105" id="CZK" ar="1.234"/>
+                <c br="4.1504" id="DKK" ar="4.244"/>
+                <c br="1.2025" id="EGP" ar="1.298"/>
+                <c br="31.851" id="EUR" ar="31.875"/>
+                <c br="35.505" id="GBP" ar="35.65"/>
+                <c br="10.3035" id="GEL" ar="10.6"/>
+                <c br="3.1275" id="HKD" ar="3.258"/>
+                <c br="3.251" id="HRK" ar="4.266"/>
+                <c br="0.096" id="HUF" ar="0.0988"/>
+                <c br="7.3505" id="ILS" ar="7.585"/>
+                <c br="0.3475" id="INR" ar="0.365"/>
+                <c br="0.238" id="JPY" ar="0.245"/>
+                <c br="0.0213" id="KRW" ar="0.0237"/>
+                <c br="0.0656" id="KZT" ar="0.071"/>
+                <c br="1.451" id="MDL" ar="1.6177"/>
+                <c br="1.2215" id="MXN" ar="1.308"/>
+                <c br="3.151" id="NOK" ar="3.2785"/>
+                <c br="17.405" id="NZD" ar="18.277"/>
+                <c br="7.3804" id="PLN" ar="7.41"/>
+                <c br="6.523" id="RON" ar="6.808"/>
+                <c br="0.416" id="RUB" ar="0.417"/>
+                <c br="6.533" id="SAR" ar="6.988"/>
+                <c br="2.985" id="SEK" ar="3.06"/>
+                <c br="18.57" id="SGD" ar="19.295"/>
+                <c br="0.771" id="THB" ar="0.84"/>
+                <c br="4.86" id="TRY" ar="4.865"/>
+                <c br="0.6282" id="TWD" ar="0.88"/>
+                <c br="27.95" id="USD" ar="27.975"/>
+                <c br="0.0011" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="ПОВ №24"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb1f">
+            <currencies>
+                <c br="19.85" id="AUD" ar="20.1"/>
+                <c br="14.46" id="AZN" ar="15.8"/>
+                <c br="15.23" id="BGN" ar="16.27"/>
+                <c br="13.0" id="BYN" ar="13.7"/>
+                <c br="20.7" id="CAD" ar="21.15"/>
+                <c br="27.8" id="CHF" ar="28.2"/>
+                <c br="3.92" id="CNY" ar="4.6"/>
+                <c br="1.21" id="CZK" ar="1.25"/>
+                <c br="4.15" id="DKK" ar="4.4"/>
+                <c br="1.2" id="EGP" ar="1.35"/>
+                <c br="31.8" id="EUR" ar="31.95"/>
+                <c br="35.4" id="GBP" ar="35.7"/>
+                <c br="10.3" id="GEL" ar="10.9"/>
+                <c br="3.12" id="HKD" ar="3.27"/>
+                <c br="0.096" id="HUF" ar="0.11"/>
+                <c br="7.35" id="ILS" ar="7.7"/>
+                <c br="1.51" id="MDL" ar="1.7"/>
+                <c br="3.15" id="NOK" ar="3.3001"/>
+                <c br="7.33" id="PLN" ar="7.4"/>
+                <c br="6.5" id="RON" ar="6.9"/>
+                <c br="0.414" id="RUB" ar="0.418"/>
+                <c br="2.98" id="SEK" ar="3.2"/>
+                <c br="18.57" id="SGD" ar="19.35"/>
+                <c br="0.78" id="THB" ar="0.9"/>
+                <c br="4.85" id="TRY" ar="5.15"/>
+                <c br="0.001" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="ПОВ №28"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb4r">
+            <currencies>
+                <c br="7.2" id="AED" ar="7.5"/>
+                <c br="0.045" id="AMD" ar="0.06"/>
+                <c br="19.6" id="AUD" ar="20.2"/>
+                <c br="14.46" id="AZN" ar="17.0"/>
+                <c br="15.2" id="BGN" ar="16.2"/>
+                <c br="5.82" id="BRL" ar="7.2"/>
+                <c br="12.9" id="BYN" ar="13.2"/>
+                <c br="20.5" id="CAD" ar="21.1"/>
+                <c br="27.9" id="CHF" ar="28.6"/>
+                <c br="0.025" id="CLP" ar="0.049"/>
+                <c br="3.85" id="CNY" ar="4.1"/>
+                <c br="1.2" id="CZK" ar="1.25"/>
+                <c br="4.1" id="DKK" ar="4.26"/>
+                <c br="1.2" id="EGP" ar="1.5"/>
+                <c br="35.0" id="GBP" ar="35.8"/>
+                <c br="10.25" id="GEL" ar="10.85"/>
+                <c br="3.12" id="HKD" ar="3.7"/>
+                <c br="3.24" id="HRK" ar="4.5"/>
+                <c br="0.095" id="HUF" ar="0.12"/>
+                <c br="7.3" id="ILS" ar="7.8"/>
+                <c br="0.342" id="INR" ar="0.38"/>
+                <c br="0.012" id="IQD" ar="0.025"/>
+                <c br="0.23" id="JPY" ar="0.26"/>
+                <c br="0.21" id="KGS" ar="0.4"/>
+                <c br="0.021" id="KRW" ar="0.025"/>
+                <c br="49.22" id="KWD" ar="88.0"/>
+                <c br="0.065" id="KZT" ar="0.075"/>
+                <c br="0.0112" id="LBP" ar="0.018"/>
+                <c br="1.45" id="MDL" ar="1.8"/>
+                <c br="1.22" id="MXN" ar="1.4"/>
+                <c br="3.15" id="NOK" ar="3.29"/>
+                <c br="17.3" id="NZD" ar="18.5"/>
+                <c br="0.152" id="PKR" ar="0.31"/>
+                <c br="7.2" id="PLN" ar="7.7"/>
+                <c br="6.51" id="RON" ar="7.2"/>
+                <c br="6.53" id="SAR" ar="7.35"/>
+                <c br="2.95" id="SEK" ar="3.1"/>
+                <c br="18.56" id="SGD" ar="20.6"/>
+                <c br="0.76" id="THB" ar="0.85"/>
+                <c br="1.75" id="TJS" ar="3.6"/>
+                <c br="4.8" id="TRY" ar="5.5"/>
+                <c br="0.62" id="TWD" ar="0.9"/>
+                <c br="9.0E-4" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="ПОВ №45"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0l">
+            <currencies>
+                <c br="31.75" id="EUR" ar="32.09"/>
+                <c br="35.0" id="GBP" ar="35.9"/>
+                <c br="7.23" id="PLN" ar="7.43"/>
+                <c br="0.401" id="RUB" ar="0.418"/>
+                <c br="27.91" id="USD" ar="28.08"/>
+            </currencies>
+            <title value="ПОВ №8"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb2w">
+            <currencies>
+                <c br="27.9" id="CHF" ar="28.35"/>
+                <c br="31.83" id="EUR" ar="31.98"/>
+                <c br="35.35" id="GBP" ar="36.0"/>
+                <c br="0.413" id="RUB" ar="0.422"/>
+                <c br="27.92" id="USD" ar="28.02"/>
+            </currencies>
+            <title value="ПОВ №9"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smd3z">
+            <currencies>
+                <c br="20.5" id="CAD" ar="21.1"/>
+                <c br="31.7" id="EUR" ar="31.95"/>
+                <c br="35.0" id="GBP" ar="35.9"/>
+                <c br="7.3" id="PLN" ar="7.41"/>
+                <c br="0.405" id="RUB" ar="0.418"/>
+                <c br="27.9" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="ПОВ №99"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smab4">
+            <currencies>
+                <c br="31.7" id="EUR" ar="32.2"/>
+                <c br="0.405" id="RUB" ar="0.425"/>
+                <c br="27.75" id="USD" ar="28.15"/>
+            </currencies>
+            <title value="ПУМБ"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma9t">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.1"/>
+                <c br="0.37" id="RUB" ar="0.417"/>
+                <c br="27.8" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Первый Инвестиционный Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaat">
+            <currencies>
+                <c br="31.55" id="EUR" ar="32.09"/>
+                <c br="0.37" id="RUB" ar="0.44"/>
+                <c br="27.7" id="USD" ar="27.9"/>
+            </currencies>
+            <title value="Пивденный"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smacm">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.05"/>
+                <c br="0.4" id="RUB" ar="0.422"/>
+                <c br="27.7" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Пиреус Банк "/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma7s">
+            <currencies>
+                <c br="31.6" id="EUR" ar="31.95"/>
+                <c br="0.403" id="RUB" ar="0.418"/>
+                <c br="27.85" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Полтава-Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smeke">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.1"/>
+                <c br="0.38" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Портал"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma7v">
+            <currencies>
+                <c br="31.55" id="EUR" ar="31.95"/>
+                <c br="0.38" id="RUB" ar="0.44"/>
+                <c br="27.8" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Правэкс Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma7w">
+            <currencies>
+                <c br="31.45" id="EUR" ar="32.05"/>
+                <c br="0.395" id="RUB" ar="0.425"/>
+                <c br="27.7" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="ПриватБанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma76">
+            <currencies>
+                <c br="31.5" id="EUR" ar="32.25"/>
+                <c br="0.403" id="RUB" ar="0.443"/>
+                <c br="27.75" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Проминвестбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smgkk">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.38" id="RUB" ar="0.42"/>
+                <c br="27.85" id="USD" ar="28.15"/>
+            </currencies>
+            <title value="РВС Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smabt">
+            <currencies>
+                <c br="31.75" id="EUR" ar="32.0"/>
+                <c br="0.38" id="RUB" ar="0.42"/>
+                <c br="27.88" id="USD" ar="28.02"/>
+            </currencies>
+            <title value="Радабанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma77">
+            <currencies>
+                <c br="31.5" id="EUR" ar="31.9"/>
+                <c br="0.41" id="RUB" ar="0.42"/>
+                <c br="27.7" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Райффайзен Банк Аваль"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smajn">
+            <currencies>
+                <c br="31.35" id="EUR" ar="32.05"/>
+                <c br="0.404" id="RUB" ar="0.434"/>
+                <c br="27.75" id="USD" ar="27.9"/>
+            </currencies>
+            <title value="Сбербанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smbqh">
+            <currencies>
+                <c br="7.25" id="AED" ar="7.5"/>
+                <c br="19.7" id="AUD" ar="20.35"/>
+                <c br="14.4" id="AZN" ar="15.0"/>
+                <c br="13.0" id="BYN" ar="13.3"/>
+                <c br="20.5" id="CAD" ar="21.56"/>
+                <c br="27.9" id="CHF" ar="28.05"/>
+                <c br="3.92" id="CNY" ar="4.03"/>
+                <c br="1.21" id="CZK" ar="1.28"/>
+                <c br="4.15" id="DKK" ar="4.36"/>
+                <c br="1.19" id="EGP" ar="1.4"/>
+                <c br="31.8" id="EUR" ar="31.88"/>
+                <c br="35.2" id="GBP" ar="35.7"/>
+                <c br="10.28" id="GEL" ar="11.3"/>
+                <c br="3.12" id="HKD" ar="3.3"/>
+                <c br="3.24" id="HRK" ar="4.4"/>
+                <c br="7.35" id="ILS" ar="7.63"/>
+                <c br="0.23" id="JPY" ar="0.249"/>
+                <c br="3.18" id="NOK" ar="3.33"/>
+                <c br="17.44" id="NZD" ar="19.5"/>
+                <c br="7.38" id="PLN" ar="7.44"/>
+                <c br="0.416" id="RUB" ar="0.419"/>
+                <c br="6.52" id="SAR" ar="7.04"/>
+                <c br="2.98" id="SEK" ar="3.15"/>
+                <c br="18.57" id="SGD" ar="20.0"/>
+                <c br="0.78" id="THB" ar="0.9"/>
+                <c br="4.8" id="TRY" ar="4.85"/>
+                <c br="27.93" id="USD" ar="28.0"/>
+                <c br="0.0011" id="VND" ar="0.0013"/>
+            </currencies>
+            <title value="Світ (опт)"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smacc">
+            <currencies>
+                <c br="31.55" id="EUR" ar="31.95"/>
+                <c br="0.41" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Таскомбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smau6">
+            <currencies>
+                <c br="31.6" id="EUR" ar="32.1"/>
+                <c br="0.38" id="RUB" ar="0.43"/>
+                <c br="27.75" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Траст-капитал"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma8p">
+            <currencies>
+                <c br="31.4" id="EUR" ar="31.85"/>
+                <c br="0.3" id="RUB" ar="0.42"/>
+                <c br="27.7" id="USD" ar="28.1"/>
+            </currencies>
+            <title value="Укргазбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smabg">
+            <currencies>
+                <c br="31.45" id="EUR" ar="32.2"/>
+                <c br="0.405" id="RUB" ar="0.425"/>
+                <c br="27.7" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Укрсиббанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1sma93">
+            <currencies>
+                <c br="31.4" id="EUR" ar="32.0"/>
+                <c br="0.403" id="RUB" ar="0.425"/>
+                <c br="27.75" id="USD" ar="28.0"/>
+            </currencies>
+            <title value="Укрсоцбанк "/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smav3">
+            <currencies>
+                <c br="31.5" id="EUR" ar="31.9"/>
+                <c br="0.38" id="RUB" ar="0.42"/>
+                <c br="27.75" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Укрстройинвестбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaaa">
+            <currencies>
+                <c br="31.33" id="EUR" ar="32.36"/>
+                <c br="0.26" id="RUB" ar="0.46"/>
+            </currencies>
+            <title value="Укрэксимбанк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smb0b">
+            <currencies>
+                <c br="31.5" id="EUR" ar="32.0"/>
+                <c br="27.78" id="USD" ar="27.95"/>
+            </currencies>
+            <title value="Универсал Банк"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smnwi">
+            <currencies>
+                <c br="7.2527" id="AED" ar="7.4746"/>
+                <c br="0.0523" id="AMD" ar="0.0566"/>
+                <c br="19.9207" id="AUD" ar="20.029"/>
+                <c br="14.4626" id="AZN" ar="16.3672"/>
+                <c br="15.2337" id="BGN" ar="16.2"/>
+                <c br="5.8325" id="BRL" ar="7.2"/>
+                <c br="13.0085" id="BYN" ar="13.119"/>
+                <c br="20.705" id="CAD" ar="20.98"/>
+                <c br="27.951" id="CHF" ar="28.05"/>
+                <c br="0.0251" id="CLP" ar="0.0488"/>
+                <c br="3.922" id="CNY" ar="4.022"/>
+                <c br="1.21" id="CZK" ar="1.229"/>
+                <c br="4.1504" id="DKK" ar="4.241"/>
+                <c br="1.2025" id="EGP" ar="1.3"/>
+                <c br="31.8" id="EUR" ar="32.0"/>
+                <c br="35.505" id="GBP" ar="35.6"/>
+                <c br="10.3035" id="GEL" ar="10.5999"/>
+                <c br="3.1275" id="HKD" ar="3.257"/>
+                <c br="3.251" id="HRK" ar="4.265"/>
+                <c br="0.096" id="HUF" ar="0.1"/>
+                <c br="7.3505" id="ILS" ar="7.584"/>
+                <c br="0.3479" id="INR" ar="0.365"/>
+                <c br="0.2385" id="JPY" ar="0.2448"/>
+                <c br="0.0217" id="KRW" ar="0.0236"/>
+                <c br="49.2214" id="KWD" ar="88.0"/>
+                <c br="0.0665" id="KZT" ar="0.075"/>
+                <c br="0.0114" id="LBP" ar="0.0177"/>
+                <c br="1.5108" id="MDL" ar="1.65"/>
+                <c br="1.2218" id="MXN" ar="1.31"/>
+                <c br="3.1826" id="NOK" ar="3.276"/>
+                <c br="17.4436" id="NZD" ar="18.3"/>
+                <c br="7.3803" id="PLN" ar="7.45"/>
+                <c br="6.5226" id="RON" ar="6.807"/>
+                <c br="0.41" id="RUB" ar="0.42"/>
+                <c br="6.5328" id="SAR" ar="6.987"/>
+                <c br="2.9804" id="SEK" ar="3.09"/>
+                <c br="18.5732" id="SGD" ar="19.294"/>
+                <c br="0.7832" id="THB" ar="0.85"/>
+                <c br="4.8572" id="TRY" ar="5.2"/>
+                <c br="0.6287" id="TWD" ar="0.675"/>
+                <c br="27.95" id="USD" ar="28.03"/>
+                <c br="0.0011" id="VND" ar="0.0012"/>
+            </currencies>
+            <title value="ФК «Премиум Финанс»"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smguy">
+            <currencies>
+                <c br="14.45" id="AZN" ar="16.95"/>
+                <c br="20.5" id="CAD" ar="21.0"/>
+                <c br="27.95" id="CHF" ar="28.03"/>
+                <c br="1.2" id="CZK" ar="1.22"/>
+                <c br="31.8" id="EUR" ar="31.9"/>
+                <c br="35.4" id="GBP" ar="35.45"/>
+                <c br="0.2375" id="JPY" ar="0.25"/>
+                <c br="7.35" id="PLN" ar="7.4"/>
+                <c br="27.9" id="USD" ar="27.98"/>
+            </currencies>
+            <title value="ФК ДСД ФИНАНС"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smax8">
+            <currencies>
+                <c br="31.63" id="EUR" ar="32.1"/>
+                <c br="0.3" id="RUB" ar="0.5"/>
+                <c br="27.82" id="USD" ar="28.05"/>
+            </currencies>
+            <title value="Форвард"/>
+        </organization>
+        <organization id="7oiylpmiow8iy1smaad">
+            <currencies>
+                <c br="27.17" id="CHF" ar="28.17"/>
+                <c br="1.19" id="CZK" ar="1.23"/>
+                <c br="31.48" id="EUR" ar="32.06"/>
+                <c br="34.42" id="GBP" ar="35.46"/>
+                <c br="7.23" id="PLN" ar="7.41"/>
+                <c br="0.371" id="RUB" ar="0.42"/>
+                <c br="27.71" id="USD" ar="27.88"/>
+            </currencies>
+            <title value="Юнекс Банк"/>
+        </organization>
+    </organizations>
+</source>

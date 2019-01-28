@@ -1,0 +1,2 @@
+# Java PRO Занятие #2: JSON + XML
+Задание #3:  Написать парсер для Yahoo Finance в режиме XML (format=xml). Так как Yahoo Finance закрыл API, то я парсил http://resources.finance.ua/ru/public/currency-cash.xml
