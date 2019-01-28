@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <from>Blablablablablabla</from>
+        <to>Bla-Blablablablabla</to>
+        <date>30.10.2018</date>
+        <departure>17:22</departure>
+    </train>
+    <train id="2">
+        <from>Blablabla-Blablabla</from>
+        <to>Blablabla</to>
+        <date>31.12.2018</date>
+        <departure>16:49</departure>
+    </train>
+    <train id="3">
+        <from>Blablablablablabla</from>
+        <to>Blabla-Bla</to>
+        <date>19.02.2018</date>
+        <departure>03:09</departure>
+    </train>
+    <train id="4">
+        <from>Bla-Bla</from>
+        <to>Blablablablabla</to>
+        <date>08.10.2018</date>
+        <departure>15:22</departure>
+    </train>
+    <train id="5">
+        <from>Blabla</from>
+        <to>Blablablabla</to>
+        <date>24.01.2018</date>
+        <departure>22:11</departure>
+    </train>
+</trains>
